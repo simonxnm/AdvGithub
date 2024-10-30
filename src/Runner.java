@@ -14,5 +14,13 @@ public class Runner {
         //techpro
         System.out.println("techpro 1");
         System.out.println("techpro 2");
+<<<<<<< Updated upstream
+=======
+        System.out.println("techpro 3");
+
+        System.out.println("-------------------------");
+        System.out.println("*************************");
+
+>>>>>>> Stashed changes
     }
 }
